@@ -1,0 +1,78 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.echotech.famousity</groupId>
+	<artifactId>famousity-webapp</artifactId>
+	<packaging>war</packaging>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Famousity Facebook Application</name>
+	<description>Famousity Facebook Application</description>
+	<repositories>
+	<!-- 
+		<repository>
+			<id>vmware-repo</id>
+			<name>VMWare Main Mirror</name>
+			<url>http://build-squid.eng.vmware.com/nexus/content/groups/repo</url>
+		</repository>
+		 -->
+		<repository>
+			<id>atlassian-proxy</id>
+			<name>Atlassian Public Mirror</name>
+			<url>https://maven.atlassian.com/content/groups/public</url>
+		</repository>
+		<repository>
+			<id>org.jboss.maven.release</id>
+			<name>JBoss Maven Central-compatible Repository</name>
+			<url>https://repository.jboss.org/nexus/</url>
+		</repository>
+		<repository>
+			<id>sonatype-releases</id>
+			<name>Sonatype Release Repository</name>
+			<url>http://oss.sonatype.org/content/repositories/releases/</url>
+		</repository>
+		<repository>
+			<id>maven repo1</id>
+			<name>repo1</name>
+			<url> http://repo1.maven.org/maven2/</url>
+		</repository>
+	</repositories>
+	<dependencies>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.16</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>1.4</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.1-alpha2</version>
+		</dependency>
+		<dependency>
+			<groupId>com.extjs</groupId>
+			<artifactId>gxt</artifactId>
+			<version>2.2.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.gwt.google-apis</groupId>
+			<artifactId>gwt-visualization</artifactId>
+			<version>1.0.2</version>
+		</dependency>
+	</dependencies>
+
+
+</project>

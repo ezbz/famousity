@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/famousity-repo/!svn/ver/13/trunk/famousity-webapp/src/org/echotech/famousity/client
+END
+Famousity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/famousity-repo/!svn/ver/13/trunk/famousity-webapp/src/org/echotech/famousity/client/Famousity.java
+END
+FacebookServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/famousity-repo/!svn/ver/13/trunk/famousity-webapp/src/org/echotech/famousity/client/FacebookServiceAsync.java
+END
+FacebookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/famousity-repo/!svn/ver/13/trunk/famousity-webapp/src/org/echotech/famousity/client/FacebookService.java
+END
+GoogleServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/famousity-repo/!svn/ver/13/trunk/famousity-webapp/src/org/echotech/famousity/client/GoogleServiceAsync.java
+END
+GoogleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/famousity-repo/!svn/ver/13/trunk/famousity-webapp/src/org/echotech/famousity/client/GoogleService.java
+END
